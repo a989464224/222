@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">余兴才2024180548</string>
+    <!-- 区1相关 -->
+    <string name="btn_add_textview">ADD TEXTVIEW</string>
+    <string name="textview_prefix">This is a new textView:</string>
+    <!-- 区2相关 -->
+    <string name="label_new_language">新语言</string>
+    <string name="btn_confirm">确定</string>
+    <string name="default_language">kotlin</string>
+</resources>
